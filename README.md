@@ -11,18 +11,15 @@
 | **DevOps/Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Lombok-CA2136?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/> |
 
 ---
-
-## 🚀 Key Achievements
-
-### 🌊 Busan Night-Wave
+###  Busan Night-Wave
 - **Concept**: 외국인 관광객을 위한 맞춤형 부산 야경 코스 추천 플랫폼
 - **Highlights**: 다국어 지원 및 실시간 데이터(날씨·교통) 연동을 통해 외국인 관광객에게 최적화된 코스 큐레이션을 제공합니다
 
-### 🏭 Industrial Automation System 
+###  Industrial Automation System 
 - **Concept**: 공장 자동화 라인 모니터링 및 제어 소프트웨어 관리
 - **Highlights**: C# WPF를 활용한 실시간 데이터 시각화 및 설비 인터페이스 유지보수
 
-### 🗺️ Tourism & Festival Platform 
+###  Tourism & Festival Platform 
 - **Concept**: 위치 기반 전국 축제 및 장소 추천 서비스 개발/운영
 - **Highlights**: PHP/MySQL 기반 대규모 관광 데이터 동기화 및 관리 시스템 구축
 
