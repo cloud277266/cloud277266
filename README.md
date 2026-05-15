@@ -26,12 +26,7 @@
 - **Concept**: 위치 기반 전국 축제 및 장소 추천 서비스 개발/운영
 - **Highlights**: PHP/MySQL 기반 대규모 관광 데이터 동기화 및 관리 시스템 구축
 
-## 📫 Connect with Me
-- 📧 Email: **winwoo3840@gmail.com**
----
-
 <p align="center">
-  <!-- 스트릭 카드 (이미 잘 나오던 것) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloud277266&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
