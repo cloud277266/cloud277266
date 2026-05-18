@@ -24,7 +24,7 @@
 - **Concept**: 위치 기반 전국 축제 및 장소 추천 서비스 개발/운영
 - **Highlights**: PHP/MySQL 기반 대규모 관광 데이터 동기화 및 관리 시스템 구축
 
-### Pharma SmartFactory IT Portfolio (MES · LIMS · RWS)
+### pharma-mes-lims-rws
 - **Concept**: 제약 스마트팩토리 MES/LIMS/RWS 시스템 구현 및 GMP CSV(컴퓨터 시스템 밸리데이션) 문서 작성
 - **Highlights**: GMP 규정(21 CFR Part 11) 기반 Audit Trail · Maker-Checker 워크플로우 · Hard-lock 허용 오차 차단 구현, IQ/OQ/PQ 적격성 평가 7건 PASS
 
