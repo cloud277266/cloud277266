@@ -5,10 +5,11 @@
 | Category | Skills |
 | :--- | :--- |
 | **Frontend** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> |
-| **Backend** | <img src="https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>|
-| **Frameworks** | <img src="https://img.shields.io/badge/.NET_WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM_Pattern-000000?style=flat-square&logo=dotnet&logoColor=white"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> |
+| **Frameworks** | <img src="https://img.shields.io/badge/.NET_WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM_Pattern-000000?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> |
 | **Database** | <img src="https://img.shields.io/badge/MySQL_8.0-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> |
 | **DevOps/Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Lombok-CA2136?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/> |
+
 
 ---
 ###  Busan Night-Wave
@@ -26,8 +27,6 @@
 ### Pharma SmartFactory IT Portfolio (MES · LIMS · RWS)
 - **Concept**: 제약 스마트팩토리 MES/LIMS/RWS 시스템 구현 및 GMP CSV(컴퓨터 시스템 밸리데이션) 문서 작성
 - **Highlights**: GMP 규정(21 CFR Part 11) 기반 Audit Trail · Maker-Checker 워크플로우 · Hard-lock 허용 오차 차단 구현, IQ/OQ/PQ 적격성 평가 7건 PASS
-- **Tech**: Next.js · TypeScript · MySQL · Prisma · C# WPF · .NET 10 · Recharts · Docker
-- **Repository**: [pharma-mes-lims-rws](https://github.com/cloud277266/pharma-mes-lims-rws)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloud277266&theme=radical&hide_border=true" alt="GitHub Streak" />
